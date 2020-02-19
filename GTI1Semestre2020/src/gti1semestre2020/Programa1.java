@@ -1,7 +1,6 @@
 package gti1semestre2020;
 import java.util.Scanner;
-public class Programa1
-{
+public class Programa1 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         double nx=4.75,ny=5.98;
