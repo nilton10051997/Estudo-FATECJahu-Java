@@ -23,14 +23,17 @@ public class Programa7 {
                 }
             }
         }
+        // Saída de dados:
         System.out.printf("A nota da sua prova 1 foi: %.2f\nA nota da sua prova 2 foi: %.2f\n\nSua média foi: %.2f\nSua situação é: %s\n",p1,p2,media,situacao);
 
 // OU
 
+//        // Entrada de dados:
 //        System.out.println("Digite a nota da sua P1:");
 //        double p1 = teclado.nextDouble();
 //        System.out.println("Agora digite a nota da sua P2:");
 //        double p2 = teclado.nextDouble();
+//        // Processamento:
 //        double media = (p1+p2)/2;
 //        if (media <= 3) {
 //            System.out.print("A nota da sua prova 1 foi: "+p1);
